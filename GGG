@@ -1,0 +1,7 @@
+git remote add origin https://github.com/stmother13/RepPop.git
+git branch -M main
+git push -u origin main
+01010110101010101010
+01011101101101101010
+10110101010101001011
+10101100110101011101
